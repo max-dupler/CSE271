@@ -7,4 +7,6 @@ Coursework from CSE 271: Object-oriented Programming
 
 **6 Homeworks**: Larger projects meant to combine all course concepts up to that point.
 
+### Disclaimer
+
 Please note that some of the source code provided in this repository may be authored by the professor or provided by the university for instructional purposes. This code is intended to assist students in understanding and completing assignments.
