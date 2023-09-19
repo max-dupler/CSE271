@@ -1,6 +1,9 @@
 # CSE271: Object-Oriented Programming
 Welcome to the GitHub repository for CSE271: Object-Oriented Programming! This repository contains all the labs and homework assignments for the Spring 2022 course taught by Professor Meisam Amjad.
 
+## Course Description
+The design and implementation of software using object-oriented programming techniques including inheritance, polymorphism, object persistence, and operator overloading. Students will analyze program specifications and identify appropriate objects and classes. Additional programming topics include dynamic memory recursion, using existing object libraries, and binary/ASCII file processing.
+
 ## Coursework Structure:
 
 **11 Labs**: Labs are small projects meant to demonstrate understanding of the previous week's content
