@@ -1,7 +1,7 @@
 # CSE271
 Coursework from CSE 271: Object-oriented Programming
 
-Coursework Structure:
+# Coursework Structure:
 
 **11 Labs**: Labs are small projects meant to demonstrate understanding of the previous week's content
 
