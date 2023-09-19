@@ -1,5 +1,5 @@
-# CSE271
-Coursework from CSE 271: Object-oriented Programming
+# CSE271: Object-Oriented Programming
+Welcome to the GitHub repository for CSE271: Object-Oriented Programming! This repository contains all the labs and homework assignments for the Spring 2022 course taught by Professor Meisam Amjad.
 
 ## Coursework Structure:
 
